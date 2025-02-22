@@ -2,3 +2,5 @@ numpy
 pandas
 matplotlib
 openpyxl
+requests
+beautifulsoup4
